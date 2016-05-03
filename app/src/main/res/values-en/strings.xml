@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">EntrerríosApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <string name="item1">Home</string>
+    <string name="item2">Hotels</string>
+    <string name="item3">Bares</string>
+    <string name="item4">Turist Sites</string>
+    <string name="item5">Demography</string>
+    <string name="item6">About</string>
+
+    <string name="boton">See Map</string>
+
+    <string name="hotel1">Capilla del Río</string>
+    <string name="hotel2">Portón del Norte</string>
+    <string name="hotel3">Hostal Villalobos</string>
+
+    <string name="bar1">Mompox Disco</string>
+    <string name="bar2">VIP Discobar</string>
+    <string name="bar3">El Zarzo Bar</string>
+
+    <string name="sitio1">Riogrande II Damming</string>
+    <string name="sitio2">Peñol Stone</string>
+    <string name="sitio3">Trout Fishing El Lago</string>
+
+    <string name="deschotel1">Calle 10 # 12-29\nReservations: (034)8670109</string>
+    <string name="deschotel2">Calle 10 # 13–24\nReservations: (034)8670122</string>
+    <string name="deschotel3">Calle 9 # 14–03\nReservations: (034)8670168</string>
+
+    <string name="descbar1">\nSalsa and Vallenato!\nCarrera 12 # 10–25\</string>
+    <string name="descbar2">\nRumba Crossover\nPrincipal Park - East Side</string>
+    <string name="descbar3">Lounge\nCarrera 13 # 10–57</string>
+
+    <string name="descsitio1">With an area of 1100 hectares is one of the most extensive water mirrors of Antioquia; administratively it belongs to the northern region.</string>
+    <string name="descsitio2">Monolith located just 3 kilometers from the county seat. Its name comes from the great similarity with the famous Guatapé Stone.</string>
+    <string name="descsitio3">Sport fishing for species of rainbow and golden trout. Fishing lake. Restaurant specializes in salmonids. Fish farm.</string>
+
+    <string name="gene">\nGeneralities</string>
+    <string name="bandera">Flag\n</string>
+    <string name="escudo">\nShield\n</string>
+
+    <string name="Desc">It is one of the towns with better quality of life indices in the region, located in the northern subregion of Antioquia department. Famous for its landscapes, traditionally cattle.</string>
+    <string name="Generalidades">Population: 9950 hab.\nAltitude: 2300 msnm.\nTemperature: 16°C.\nDistance to Medellín:\n60 Km.</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/item_inicio"
+            android:checked="true"
+            android:icon="@drawable/inicio"
+            android:title="@string/item1" />
+        <item
+            android:id="@+id/item_hoteles"
+            android:icon="@drawable/categorias"
+            android:title="@string/item2" />
+        <item
+            android:id="@+id/item_bares"
+            android:icon="@drawable/categorias"
+            android:title="@string/item3" />
+        <item
+            android:id="@+id/item_sitios"
+            android:icon="@drawable/categorias"
+            android:title="@string/item4" />
+        <item
+            android:id="@+id/item_info"
+            android:icon="@drawable/usuario"
+            android:title="@string/item5" />
+        <item
+            android:id="@+id/item_about"
+            android:icon="@drawable/configuracion"
+            android:title="@string/item6" />
+    </group>
+
+</menu>

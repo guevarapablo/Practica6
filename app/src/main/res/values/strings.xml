@@ -1,0 +1,51 @@
+<resources>
+    <string name="app_name">EntrerríosApp</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="abierto">Open navigation drawer</string>
+    <string name="cerrado">Close navigation drawer</string>
+
+    <string name="item1">Inicio</string>
+    <string name="item2">Hoteles</string>
+    <string name="item3">Bares</string>
+    <string name="item4">Turismo</string>
+    <string name="item5">Demografía</string>
+    <string name="item6">Acerca de</string>
+
+    <string name="boton">Ver Mapa</string>
+
+    <string name="hotel1">Capilla del Río</string>
+    <string name="hotel2">Portón del Norte</string>
+    <string name="hotel3">Hostal Villalobos</string>
+
+    <string name="bar1">Mompox Discoteca</string>
+    <string name="bar2">VIP Discobar</string>
+    <string name="bar3">El Zarzo Bar</string>
+
+    <string name="sitio1">Embalse Riogrande II</string>
+    <string name="sitio2">Piedra del Peñol</string>
+    <string name="sitio3">Truchera El Lago</string>
+
+    <string name="deschotel1">Calle 10 # 12-29\nReservas: (034)8670109</string>
+    <string name="deschotel2">Calle 10 # 13–24\nReservas: (034)8670122</string>
+    <string name="deschotel3">Calle 9 # 14–03\nReservas: (034)8670168</string>
+
+    <string name="descbar1">\n¡Salsa y Vallenato!\nCarrera 12 # 10–25\</string>
+    <string name="descbar2">\nRumba Crossover\nParque Principal Costado Oriental</string>
+    <string name="descbar3">Ambiente Lounge\nCarrera 13 # 10–57</string>
+
+    <string name="descsitio1">Con una superficie de 1100 hectáreas es uno de los espejos de agua más extensos de Antioquia; pertenece administrativamente a la región norte.</string>
+    <string name="descsitio2">Monolito situado a escasos 3 Kilómetros de la cabecera municipal. Su nombre viene de la gran similitud que tiene con la famosa Pierda del Peñón de Guatapé.</string>
+    <string name="descsitio3">Pesca deportiva para especies de trucha arcoiris y golden. Lago de pesca. Restaurante especializado en salmónidos. Granja Piscícola</string>
+
+    <string name="gene">\nGeneralidades</string>
+    <string name="bandera">Bandera\n</string>
+    <string name="escudo">\nEscudo\n</string>
+
+    <string name="Desc">Es uno de los municipios con mejores índices de calidad de vida de la región, localizado en la subregión Norte del departamento de Antioquia. Famoso por sus paisajes, tradicionalmente ganadero.</string>
+    <string name="Generalidades">Población: 9950 hab.\nAltitud: 2300 msnm.\nTemperatura: 16°C.\nDistancia a Medellín:\n60 Km.</string>
+    <string name="title_activity_maps">Map</string>
+
+</resources>

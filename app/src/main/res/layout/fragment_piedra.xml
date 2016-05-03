@@ -1,0 +1,35 @@
+
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.pabloguevara.ct.PiedraFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+        <LinearLayout
+            style = "@style/linearLayoutStyle">
+            <TextView
+                style = "@style/textViewStyle.Title"
+                android:text="@string/sitio2"/>
+            <TextView
+                style = "@style/textViewStyle.Content"
+                android:text="@string/descsitio2"/>
+            <ImageView
+                android:layout_width="160dp"
+                android:layout_height="160dp"
+                android:layout_gravity="center"
+                android:scaleType="centerCrop"
+                android:src="@drawable/piedra2"/>
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/boton"
+                android:layout_gravity="center"
+                android:id="@+id/bPiedra"/>
+
+
+        </LinearLayout>
+
+</FrameLayout>
+
+
